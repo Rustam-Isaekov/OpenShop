@@ -63,6 +63,21 @@
         flex-wrap: wrap;
         justify-content: center;
     }
-
+    .navbar-form {
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 10px;
+    }
+    .footer-search__text {
+        text-align: center;
+    }
+    .footer-navbar {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    .footer-search__btn {
+        max-width: 190px;
+        width: 100%;
+    }
 
 }
